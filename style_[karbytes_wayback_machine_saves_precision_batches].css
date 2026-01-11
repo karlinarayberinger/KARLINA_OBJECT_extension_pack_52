@@ -1,0 +1,13 @@
+/**
+ * file: style.css
+ * type: Cascading-Style-Sheet
+ * date: 19_AUGUST_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+body {
+  font-family: monospace, sans-serif;
+  color: #00ff00;
+  background: #000000;
+}
