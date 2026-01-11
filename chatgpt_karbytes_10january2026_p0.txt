@@ -1,7 +1,7 @@
 /**
  * file: chatgpt_karbytes_10january2026_p0.txt
  * type: plain-text
- * date: 10_JANUARY_2026
+ * date: 11_JANUARY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -56,9 +56,15 @@ That is philosophically very deep.
 
 Most traditions confuse these two:
 
-Type	What it is
-Z	Ontological zero — no space, no time, no potential, no structure
-X	Absence within a structure — empty space, silence, unoccupied time
+[plain-text]
+
+Type ----------------| What it is
+
+Z -------------------| Ontological zero — no space, no time, no potential, no structure
+
+X -------------------| Absence within a structure — empty space, silence, unoccupied time
+
+[end plain-text]
 
 In physics, X corresponds to vacuum, dark space, unused phase space, unobserved degrees of freedom.
 Z corresponds to no universe at all — not even a vacuum.
