@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 Modify a copy of journal_karbytes_10january2026_p1.txt (which is named temp.txt)
 such that each instance of "https://raw.githubusercontent.com/[anonymous_username]/[public_github_repository_name]/main/"
-which occurs in temp.txt is changed to "karlinarayberinger/KARLINA_OBJECT_extension_pack_52/".
+which occurs in temp.txt is changed to "karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main".
 ---------------------------------------------------------------------------------------------------------------------------
 '''
 def replace_in_file(file_name, old_string, new_string):
@@ -33,8 +33,8 @@ def replace_in_file(file_name, old_string, new_string):
 
 # Parameters
 file_name = "temp.txt"
-old_string = "/informationcrystals/projects/main/"
-new_string = "/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/"
+old_string = "/[anonymous_username]/[public_github_repository_name]/main/"
+new_string = "/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/"
 
 # Execute the function
 replace_in_file(file_name, old_string, new_string)
