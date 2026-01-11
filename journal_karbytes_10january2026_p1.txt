@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_10january2026_p1.txt
+ * type: plain-text
+ * date: 10_JANUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/temp.txt
+
+* * *
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/chatgpt_karbytes_10january2026_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/drums_karbytes_10january2026_p0.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/journal_karbytes_10january2026_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/journal_karbytes_10january2026_p1.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/midgards_eldar_enslaved_1994.mp4
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/update_urls_in_file.py

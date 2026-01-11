@@ -1,0 +1,27 @@
+/**
+ * file: journal_karbytes_10january2026_p0.txt
+ * type: plain-text
+ * date: 10_JANUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+// Definitions
+
+Let Z represent absolute nothingness (such that Z is the complete absence of any phenomena).
+
+Let X represent nothingness which can exist concurrently with phenomena (such that X is not identical to Z).
+
+Let N represent nature as a single all-encompassing whole (such that N contains all instances of X and all phenomena).
+
+Let n represent a specific phenomenon (such that n includes a finite duration of time in which n measurably exists in addition to other measurable attributes such as a finite allocation of three-dimensional space in which n measurable exists and a finite amount of energy which imbues n with qualitative features such as color, length, mass density, spatial volume allocated to the finite and continuous space-time interval in which n measurably exists).
+
+Let x represent a specific noumenon (which is the non-observance of a particular phenomenon).
+
+// Logical Statements
+
+By definition, N contains all instances of n and all instances of x but N does not contain Z. That is because, in order for Z to exist, Z would have to be the only thing that ever exists.
+
+Technically, it is possible for N to contain no instances of n (at a particular scope of rendering within the larger encompassing N where n do not appear). Within that local scope, all instances of x unconditionally exist.
+
+Technically, wherever instances of n measurably exist is also where all instances of x exist. In such scopes of N (where specific instances of n appear), all instances of x also occur but are not observed to occur by any frame of reference due to the fact that, by defintion, an instance of x does not occupy any space, time, or energy.
