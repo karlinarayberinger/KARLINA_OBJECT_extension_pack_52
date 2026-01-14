@@ -18,7 +18,7 @@ file_4: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0
 
 file_5: KARLINA_OBJECT-main.zip // SHA-256: 236593ce2ec5c3ef30821dc8b28e60eb1bb47ac9d7d10ec11351413d6d681e74
 
-file_6: KARLINA_OBJECT_extension_pack_52-main.zip // SHA-256: d542b45aa0a804f69673efa0f3e2af80ff47d874c2a2bcbd2e3112127c8819cf
+file_6: KARLINA_OBJECT_extension_pack_52-main.zip // SHA-256: 6d22bf908d335bfea95cc02c3e10cb842ac0f8bc99e719342dc605d5dcd02e21
 
 file_7: karbytes_human_genome_fasta_part_0-main.zip // SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591
 
@@ -26,7 +26,7 @@ file_8: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd958
 
 file_9: karbytes_basement_47-main_14january2026.zip // SHA-256: ee427c4842e3bf539bad281dc0bfbe0e49c407c7da7da22f8faa2b5d415ebe25
 
-file_10: KARBYTES_FOR_LIFE_BLOG-main_14january2026.zip // SHA-256: 2495a88829d6e1dab4bd24d53ff13b10d58f75c695c628ed6e010a3700ea123e
+file_10: KARBYTES_FOR_LIFE_BLOG-main_14january2026.zip // SHA-256: f9595e809713a9bdc3d3fc8b325245673b49767a66e9b679657bd8c5c971cae0
 
 file_11: KARBYTES_BLOG_APPS-main_02december2025.zip // SHA-256: e40df914912396d6516b21fd091338413e363f1e0c11ee05af48bb2fdd7c1a67
 
