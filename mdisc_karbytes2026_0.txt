@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes2026_0.txt
  * type: plain-text
- * date: 11_JANUARY_2026
+ * date: 13_JANUARY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -400,7 +400,7 @@ karbytes2026_0: // folder contains exactly 24 files (approximately 19404.12 mega
 
     - zip_file_5: KARBYTES_OBJECT-main.zip // 216.5 megabytes
 
-    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_11january2026.zip // 754.9 kilobytes
+    - zip_file_6: KARBYTES_FOR_LIFE_BLOG-main_13january2026.zip // 754.9 kilobytes
 
     - zip_file_7: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_05january2026.zip // 288.0 megabytes
 
@@ -424,7 +424,7 @@ karbytes2026_0: // folder contains exactly 24 files (approximately 19404.12 mega
 
     - zip_file_17: KARLINA_OBJECT_extension_pack_51-main.zip // 251.6 megabytes
 
-    - zip_file_18: KARLINA_OBJECT_extension_pack_52-main_11january2026.zip // 35.5 megabytes
+    - zip_file_18: KARLINA_OBJECT_extension_pack_52-main.zip // 35.5 megabytes
 
     - zip_file_19: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
