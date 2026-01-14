@@ -1,7 +1,7 @@
 #########################################################################################
 # file: update_urls_in_file.py
 # type: Python
-# date: 13_JANUARY_2026
+# date: 14_JANUARY_2026
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
@@ -32,7 +32,7 @@ def replace_in_file(file_name, old_string, new_string):
         print(f"An error occurred: {e}")
 
 # Parameters
-file_name = "temp.txt"
+file_name = "temp.html"
 old_string = "/[anonymous_username]/[public_github_repository_name]/main/"
 new_string = "/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/"
 
