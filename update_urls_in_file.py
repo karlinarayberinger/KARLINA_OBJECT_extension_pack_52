@@ -7,7 +7,7 @@
 #########################################################################################
 '''
 ---------------------------------------------------------------------------------------------------------------------------
-Modify a copy of journal_karbytes_10january2026_p1.txt (which is named temp.txt)
+Modify a copy of journal_karbytes_10january2026_p1.txt (which is named temp.html)
 such that each instance of "https://raw.githubusercontent.com/[anonymous_username]/[public_github_repository_name]/main/"
 which occurs in temp.html is changed to "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/".
 ---------------------------------------------------------------------------------------------------------------------------
