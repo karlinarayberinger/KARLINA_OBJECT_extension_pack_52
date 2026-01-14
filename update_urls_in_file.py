@@ -1,7 +1,7 @@
 #########################################################################################
 # file: update_urls_in_file.py
 # type: Python
-# date: 10_JANUARY_2026
+# date: 13_JANUARY_2026
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 Modify a copy of journal_karbytes_10january2026_p1.txt (which is named temp.txt)
 such that each instance of "https://raw.githubusercontent.com/[anonymous_username]/[public_github_repository_name]/main/"
-which occurs in temp.txt is changed to "karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/".
+which occurs in temp.txt is changed to "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_52/main/".
 ---------------------------------------------------------------------------------------------------------------------------
 '''
 def replace_in_file(file_name, old_string, new_string):
